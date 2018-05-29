@@ -83,4 +83,4 @@ def get_weather():
 
 if __name__ == '__main__':
     app.debug = True  # enables auto reload during development
-    app.run(host='192.155.28.100', port=8080)
+    app.run(host='192.168.0.117', port=8080)
